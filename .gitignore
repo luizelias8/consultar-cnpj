@@ -1,0 +1,7 @@
+.venv
+cnpjs.txt
+saida.csv
+icone.ico
+*.exe
+build
+*.spec
